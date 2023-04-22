@@ -23,7 +23,7 @@
         border-radius: 50%;
         box-shadow: 0 0 3em white;
     }
-    .earth {
+    .earth, .moon {
         position: absolute;
         border-style: solid;
         border-color: white transparent transparent transparent;
